@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/reactstrap-website/static/css/main.5831bf90.chunk.css",
-    "main.js": "/reactstrap-website/static/js/main.c521eee3.chunk.js",
-    "main.js.map": "/reactstrap-website/static/js/main.c521eee3.chunk.js.map",
+    "main.js": "/reactstrap-website/static/js/main.a07c2a9b.chunk.js",
+    "main.js.map": "/reactstrap-website/static/js/main.a07c2a9b.chunk.js.map",
     "runtime-main.js": "/reactstrap-website/static/js/runtime-main.fbf72ebd.js",
     "runtime-main.js.map": "/reactstrap-website/static/js/runtime-main.fbf72ebd.js.map",
     "static/css/2.8885c1cd.chunk.css": "/reactstrap-website/static/css/2.8885c1cd.chunk.css",
@@ -21,13 +21,13 @@
     "static/media/img5.cd1b0a3f.jpg": "/reactstrap-website/static/media/img5.cd1b0a3f.jpg",
     "static/media/img6.9e709d84.jpg": "/reactstrap-website/static/media/img6.9e709d84.jpg",
     "static/media/style.css": "/reactstrap-website/static/media/samuel-horn-af-rantzien-8PKEeac1hzw-unsplash.5c360fc8.jpg",
-    "static/media/vimaldesigns.1ced777d.png": "/reactstrap-website/static/media/vimaldesigns.1ced777d.png"
+    "static/media/vimaldesigns.d854bbc2.jpg": "/reactstrap-website/static/media/vimaldesigns.d854bbc2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fbf72ebd.js",
     "static/css/2.8885c1cd.chunk.css",
     "static/js/2.aad08d95.chunk.js",
     "static/css/main.5831bf90.chunk.css",
-    "static/js/main.c521eee3.chunk.js"
+    "static/js/main.a07c2a9b.chunk.js"
   ]
 }
